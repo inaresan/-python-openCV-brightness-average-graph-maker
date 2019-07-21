@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyderエディタ
 
-これは一時的なスクリプトファイルです
-"""
 import cv2
 import numpy as np
 from matplotlib.pyplot import imshow
@@ -13,7 +8,6 @@ l = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
 count=0;
 graph=np.zeros(shape=l, dtype=np.uint8)
 imgr=np.zeros(shape=(256,l,3),dtype=np.uint8)
-
 for k in range(l):
     # フレームを取得
     ret, frame = cap.read()
