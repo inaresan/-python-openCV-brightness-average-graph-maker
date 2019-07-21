@@ -19,7 +19,9 @@ matplotlib:3.0.3
 
 [1]Toru Tamaki『2019imageprocessing』(最終閲覧日7/22)https://notebooks.azure.com/tamaki/projects/2019imageprocessing
 pythonの使用方法、輝度の平均値の取り方について参考にしました。
+
 [2] 電気情報CH 『【Python/OpenCV】動画ファイルの読み込み・再生』アルゴリズム雑記（最終閲覧日7/22）https://algorithm.joho.info/programming/python/opencv-videocapture-mp4-movie-py/#Python3OpenCV3
 映像読み込み部分で参考にしました。
+
 [3]ばこら～『【Python】初心者がよく出すエラーメッセージ』バコラー日記(最終閲覧日7/22)http://blog.bakorer.com/archives/50555189.html
 途中でエラーが出たので参考にしました。
