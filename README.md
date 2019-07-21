@@ -1,0 +1,1 @@
+# -python-openCV-brightness-average-graph-maker
